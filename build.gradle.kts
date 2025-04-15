@@ -53,7 +53,7 @@ dependencies {
     testImplementation("org.testcontainers:testcontainers:1.20.6")
     testImplementation("org.jetbrains:annotations:24.1.0")
     testImplementation("ch.qos.logback:logback-classic:1.5.18")
-    testImplementation("org.hamcrest:hamcrest:2.2")
+    testImplementation("org.hamcrest:hamcrest:3.0")
     testImplementation("org.mockito:mockito-core:5.17.0")
 }
 
